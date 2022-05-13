@@ -14,7 +14,5 @@ void main()
 	else
 	printf("\n b is greater than a ");
 	getch();
-	
-	
-	
+		
 }
